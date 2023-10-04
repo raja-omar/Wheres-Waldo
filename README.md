@@ -1,7 +1,1 @@
-# Where's Waldo
-
-A photo-tagging app.
-
-Technologies used:
-- React
-- Firebase
+where is waldo built with react.js and firebase
